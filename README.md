@@ -1,4 +1,5 @@
-### Hi there 👋
+# 습관적으로 좋은 코드를 작성하자
+프론트엔드 공부중인 개발자 `오영재`입니다.
 
 <!--
 **oyjbaam/oyjbaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
